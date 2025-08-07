@@ -19,7 +19,7 @@ locale                   : "en-US"
 rtl                      : # true, false (default) # turns direction of the page into right to left for RTL languages
 title                    : "Ivana R. Ewerlöf"
 title_separator          : "-"
-subtitle                 : "Researcher profile" # site tagline that appears below site title in masthead
+#subtitle                 : "Researcher profile" # site tagline that appears below site title in masthead
 name                     : "Ivana R. Ewerlöf"
 description              : "Researcher profile"
 url                      : "https://irewe.github.io"
@@ -115,16 +115,25 @@ analytics:
 author:
   name             : "About"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "A PhD-student within veterinary epidemiology. I mainly work with data analytics and mathematical modelling."
+  bio              : "I am a PhD-student within veterinary epidemiology. I mainly work with data analytics and mathematical modelling."
   location         : "Uppsala, Sweden"
   email            :
   links:
-    - label: "Email"
+    - label: "ivana.ewerlof@gmail.com"
       icon: "fas fa-fw fa-envelope-square"
       url: "mailto:ivana.ewerlof@gmail.com"
-    - label: "Website"
+    - label: "Contact via SVA"
       icon: "fas fa-fw fa-link"
-      # url: "https://your-website.com"
+      url: "https://www.sva.se/forskning/forskare/forskare-behaallare/ivana-rodriguez-ewerloef/"
+    - label: "Contact via SLU"
+      icon: "fas fa-fw fa-link"
+      url: "https://internt.slu.se/en/cv-originals/ivana-rodriguez-ewerlof/"
+    - label: "ORCID"
+      icon: "fas fa-fw fa-link"
+      url: "https://orcid.org/0000-0002-9678-9813"
+    - label: "ResearchGate"
+      icon: "fas fa-fw fa-link"
+      url: "https://www.researchgate.net/profile/Ivana-Ewerloef"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       # url: "https://twitter.com/"
