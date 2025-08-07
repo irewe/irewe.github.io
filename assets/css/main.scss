@@ -5,5 +5,40 @@ search: false
 
 @charset "utf-8";
 
-@import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
+//@import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
+@import "minimal-mistakes/skins/default";
 @import "minimal-mistakes"; // main partials
+
+/* Import Montserrat from Google Fonts */
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500&display=swap');
+
+/* Headings */
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Montserrat', sans-serif !important;
+  font-weight: 500 !important;
+}
+
+/* Site title */
+.site-title {
+  font-family: 'Montserrat', sans-serif !important;
+  font-weight: 400 !important;
+}
+
+/* Body text */
+.page__content,
+.page__content p,
+.page__content li,
+.page__content blockquote,
+.page__content td,
+.page__content th {
+  font-family: 'Montserrat', sans-serif !important;
+  font-weight: 400 !important;
+}
+
+/* Override sidebar paragraph font (e.g. bio text) */
+.sidebar .author__bio,
+.sidebar .author__content,
+.sidebar .author__content p {
+  font-family: 'Montserrat', sans-serif !important;
+  font-weight: 400 !important;
+}
