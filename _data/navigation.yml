@@ -1,10 +1,11 @@
 # main links
 main:
+  - title: "Projects"
+    url: /projects/
   - title: "Posters"
     url: /posters/
   - title: "Publications"
     url: /publications/
-  # - title: "Sample Collections"
-  #   url: /collection-archive/
-  # - title: "Sitemap"
-  #   url: /sitemap/
+  - title: "Presentations"
+    url: /presentations/
+  
