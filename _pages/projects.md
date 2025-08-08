@@ -6,4 +6,6 @@ author_profile: FALSE
 ---
 
 ## Projects
-I will soon put links to projects here
+Some research projects I have been involved in 
+
+* [MycoModel](mycomodel/)
