@@ -1,8 +1,8 @@
 ---
-title: "Ivana R. Ewerlöf - Research portfolio"
+title: "Portfolio"
 layout: single
 permalink: /
 author_profile: true
 ---
-On this site I gather my published and unpublished work.
+On this website I gather my published and unpublished work.
 
