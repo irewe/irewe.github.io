@@ -6,6 +6,6 @@ main:
     url: /posters/
   - title: "Publications"
     url: /publications/
-  - title: "Presentations"
-    url: /presentations/
+  # - title: "Presentations"
+  #   url: /presentations/
   
