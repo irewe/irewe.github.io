@@ -11,9 +11,11 @@ author_profile: FALSE
   display: flex;
   gap: 20px;
   flex-wrap: wrap;
+  justify-content: center;
 }
 .pdf-item {
-  flex: 1 1 45%;
+  flex: 0 1 45%;
+  max-width: 45%;
   text-align: center;
 }
 .pdf-item img {
@@ -41,15 +43,21 @@ author_profile: FALSE
 
 <div class="pdf-grid">
   <div class="pdf-item">
-    <h3>SVEPM 2024</h3>
-    <a href="/assets/pdfs/SVEPM2024.pdf" target="_blank">
-      <img src="/assets/images/SVEPM2024.png" alt="Document One Thumbnail">
+    <h3>SVEPM 2026</h3>
+    <a href="/assets/pdfs/SVEPM2026.pdf" target="_blank">
+      <img src="/assets/images/SVEPM2026.png" alt="Document Two Thumbnail">
+    </a>
+  </div>
+    <div class="pdf-item">
+    <h3>ModAH 2024</h3>
+    <a href="/assets/pdfs/MODAH2024.pdf" target="_blank">
+      <img src="/assets/images/MODAH2024.png" alt="Document One Thumbnail">
     </a>
   </div>
   <div class="pdf-item">
-    <h3>ModAH 2024</h3>
-    <a href="/assets/pdfs/MODAH2024.pdf" target="_blank">
-      <img src="/assets/images/MODAH2024.png" alt="Document Two Thumbnail">
+    <h3>SVEPM 2024</h3>
+    <a href="/assets/pdfs/SVEPM2024.pdf" target="_blank">
+      <img src="/assets/images/SVEPM2024.png" alt="Document One Thumbnail">
     </a>
   </div>
 </div>
