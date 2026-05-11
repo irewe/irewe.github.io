@@ -8,6 +8,10 @@ author_profile: FALSE
 ## Publications
 
 ### Peer-reviewed
+* Tao, H., Ewerlöf, I.R., Stengärde, L., Tråvén, M., Hurri, E., Widgren, S., Gunnarsson, S., Frössling, J., Huang, W., 2026.  
+**Swedish cattle farmers’ preferences for control measures against Mycoplasma bovis: A discrete choice experiment.**  
+Prev. Vet. Med. 106912. <a href="https://doi.org/10.1016/j.prevetmed.2026.106912" target="_blank" rel="noopener">https://doi.org/10.1016/j.prevetmed.2026.106912</a>
+
 * Ewerlöf, I.R., Frössling, J., Tråvén, M., Gunnarsson, S., Stengärde, L., Hurri, E., Widgren, S., 2025.  
 **Exploring structural changes in the Swedish cattle population and between-holding movements.**  
 Prev. Vet. Med. 243, 106608. <a href="https://doi.org/10.1016/j.prevetmed.2025.106608" target="_blank" rel="noopener">https://doi.org/10.1016/j.prevetmed.2025.106608</a>
